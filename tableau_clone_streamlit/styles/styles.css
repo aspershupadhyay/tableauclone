@@ -1,0 +1,85 @@
+/* styles/styles.css */
+
+/* General Styling */
+body {
+    background-color: #f5f5f5;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333333;
+}
+
+/* Sidebar Styling */
+.css-1d391kg {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.sidebar .sidebar-content {
+    background-color: #ffffff;
+}
+
+/* Button Styling */
+.stButton > button {
+    background-color: #1f77b4;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    background-color: #155d8b;
+}
+
+/* Dataframe Styling */
+.css-1aumxhk {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+}
+
+/* Expander Styling */
+.css-1lsmgbg {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Table Styling */
+.css-1gkz7jr {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Plotly Chart Styling */
+.css-1aumxhk {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}

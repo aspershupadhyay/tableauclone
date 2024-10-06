@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+requests
+Pillow
+openpyxl  # For Excel file support in pandas
